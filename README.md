@@ -1,4 +1,4 @@
 # test-cmp
 Test repo
 
-Redis_password="22dfjdkfj2"
+Openai_password="22dfjdkfj2sdsdsdsd"
