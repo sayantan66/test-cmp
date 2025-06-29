@@ -1,4 +1,4 @@
 # test-cmp
 Test repo
 
-Redis_password="22dfjdkfjkdjfkd22"
+Redis_password="22dfjdkfjkdhjkfsdfjkdsjkfjkdshnkdnsdjfkd22"
